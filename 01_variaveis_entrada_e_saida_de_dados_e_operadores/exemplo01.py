@@ -15,10 +15,10 @@ idade = 18          # int - número inteiro
 altura = 1.75       # float - número decimal
 aprovado = True     # bool - verdadeiro ou falso
 
-print(nome)
-print(idade)
-print(altura)
-print(aprovado)
+print("Nome: ", nome)
+print("Idade: ", idade)
+print("Altura: ", altura)
+print("Aprovado: ", aprovado)
 
 
 # Podemos verificar o tipo de uma variável usando type().
